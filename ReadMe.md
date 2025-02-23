@@ -19,7 +19,7 @@ Discover Campaigns :
 ![image](https://github.com/user-attachments/assets/73b0da5c-b8ec-4335-a7a7-c63ce02e0c73)
 
 
-**Technical Details **
+**Technical Details**
 Developed in React JS, Firebase API, Next Js
 Deployed in Vercal, Firebase 
 

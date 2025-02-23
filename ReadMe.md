@@ -1,4 +1,4 @@
-AJ Smile Foundation (AJ Educational & Charitable Trust) is a non-profit organization (Registration No: AAFTA2134CE20221) founded by a dedicated group committed to identifying and supporting individuals across India who are deprived of basic necessities.
+AJ Smile Foundation (AJ Educational & Charitable Trust) is a non-profit organization founded by a dedicated group committed to identifying and supporting individuals across India who are deprived of basic necessities.
 
 Our mission extends beyond addressing immediate needs; we aim to empower these individuals through access to education, healthcare, women empower and essential services.
 
